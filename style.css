@@ -537,3 +537,90 @@
     width: 200px;
     height: 40px;
 }
+
+.ninthcontainer{
+    width: 100%;
+}
+
+.ninthcontainer img{
+    width: 100%;
+    height: 720px;
+    margin-top: 40px;
+}
+
+.ninthcontainer1{
+    width: 100%;
+    text-align: center;
+    margin-top: -690px;
+}
+
+.ninthcontainer1 h2{
+    font-size: 35px;
+}
+
+.ninthcontainer2{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 560px;
+    position: relative;
+    z-index: 2;
+}
+
+.ninthcontainer2btn1{
+    background-color: #d5d2d2;
+    color: black;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    
+
+}
+.ninthcontainer2btn2{
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 200px;
+    height: 40px;
+}
+
+.tenthcontainer{
+    width: 100%;
+}
+
+.tenthcontainer img{
+    width: 100%;
+    height: 720px;
+
+}
+
+.tenthcontainer1{
+    width: 100%;
+    text-align: center;
+    margin-top: -680px;
+}
+
+.tenthcontainer1 h2{
+    font-size: 35px;
+}
+
+.tenthcontainer2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 560px;
+    position: relative;
+    z-index: 2;
+}
+
+.tenthcontainer2btn{
+    background-color: #d5d2d2;
+    color: black;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
