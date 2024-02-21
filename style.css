@@ -5,10 +5,6 @@
     font-family: "Roboto", sans-serif;
 }
 
-body{
-    width: 100%;
-}
-
 
 
 .firstcontainer{
@@ -654,55 +650,4 @@ body{
 .footerone a{
     text-decoration: none;
     color: white;
-}
-
-@media(max-width:768px){
-    body{
-        width: 100%;
-    }
-    .navbar{
-        width: 100%;
-        height: 60px;
-        display: flex;
-        align-items: center;
-        position: relative;
-        z-index: 2;
-    
-    }
-    
-    .navbarleft{
-        width: 30%;
-        margin-left: 2%;
-    }
-    
-    .navbarleft a{
-        text-decoration: none;
-        font-size: 14px;
-        color: #fff;
-    
-    }
-    .navbarmid{
-        width: 40%;
-        display: flex;
-        justify-content: space-evenly;
-        text-align: center;
-    }
-    
-    
-    
-    .navbarmid a{
-        text-decoration: none;
-        font-size: 10px;
-        color: white;
-    }
-    .navbarright{
-        width: 30%;
-        display: flex;
-        margin-right: 2%;
-        justify-content: flex-end;
-        gap: 10px;
-    }
-    .navbarright img{
-        width: 10px;
-    }
 }
